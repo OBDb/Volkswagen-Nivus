@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.22101C|fc=1,c=17
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ALTERNATOR_LOAD: 35.46
+    VOLKSWAGEN_GENERATOR_LOAD_SIG: 35.46
+  response: 7E80562101C0DDA

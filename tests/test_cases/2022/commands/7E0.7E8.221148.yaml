@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.221148
+test_cases:
+- expected_values:
+    VOLKSWAGEN_FUEL_METER: 0.01
+    VOLKSWAGEN_PQ35_FUEL_METER: 1
+  response: '7E8056211480001'

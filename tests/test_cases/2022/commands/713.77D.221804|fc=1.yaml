@@ -1,0 +1,8 @@
+command_id: 713.77D.221804|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MQB_SWA_ALT: 7210
+  response: |-
+    77D10116218047FEB08
+    77D219C007E00DE0202
+    77D2240604060AAAAAA

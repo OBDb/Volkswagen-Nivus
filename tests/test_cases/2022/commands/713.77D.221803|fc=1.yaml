@@ -1,0 +1,10 @@
+command_id: 713.77D.221803|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_RR_VSS: 3
+    VOLKSWAGEN_RR_VSS_V2: 3
+    VOLKSWAGEN_RR_VSS_V2_RAW: 30
+  response: |-
+    77D100F621803001E04
+    77D21000701FFFEFFFE
+    77D22FFFEAAAAAAAAAA

@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.22F446
+test_cases:
+- expected_values:
+    VOLKSWAGEN_AAT_7E0_7E0: 22
+    VOLKSWAGEN_AAT_V4: 22
+  response: 7E80462F4463E

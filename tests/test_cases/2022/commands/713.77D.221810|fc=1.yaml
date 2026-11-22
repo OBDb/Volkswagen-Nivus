@@ -1,0 +1,7 @@
+command_id: 713.77D.221810|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_HYDR_BRAKEBOOST: 0
+  response: |-
+    77D100862181001141D
+    77D21023EAAAAAAAAAA

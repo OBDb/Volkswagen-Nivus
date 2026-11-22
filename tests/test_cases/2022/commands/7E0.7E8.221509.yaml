@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.221509
+test_cases:
+- expected_values:
+    VOLKSWAGEN_AMBIENT_AIR_P: 914.823
+    VOLKSWAGEN_BAROMETRIC_P: 93.828
+  response: 7E8056215095BA1

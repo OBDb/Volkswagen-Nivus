@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221371
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CAM_ADJ_EXH_BANK_1_SPEC: -7.912
+  response: 7E805621371FC23

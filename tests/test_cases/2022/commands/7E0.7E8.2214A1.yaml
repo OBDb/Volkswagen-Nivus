@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2214A1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_RATED_DRIVE_TQ: 171
+  response: 7E8076214A1000006AE

@@ -1,0 +1,7 @@
+command_id: 70E.778.225036|fc=1,din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_HUMIDITY_SENS_REL: 0
+  response: |-
+    7781009625036000000
+    77821000000AAAAAAAA
