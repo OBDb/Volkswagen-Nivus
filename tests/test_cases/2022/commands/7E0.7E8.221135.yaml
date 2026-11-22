@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.221135
+test_cases:
+- expected_values:
+    VOLKSWAGEN_COOLANT_T: 80
+    VOLKSWAGEN_COOLANT_T_RAW: 3531
+    VOLKSWAGEN_EARLY_COOLANT_T: 300
+  response: 7E8056211350DCB

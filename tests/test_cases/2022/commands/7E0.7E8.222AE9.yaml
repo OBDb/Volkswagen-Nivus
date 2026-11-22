@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.222AE9
+test_cases:
+- expected_values:
+    VOLKSWAGEN_EGT_AFTER_CAT_MODEL_1: 484.95211
+    VOLKSWAGEN_EXH_GAS_T_CALC_AFTER: 485.0168
+  response: 7E805622AE97E59

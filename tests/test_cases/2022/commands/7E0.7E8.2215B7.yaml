@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2215B7
+test_cases:
+- expected_values:
+    VOLKSWAGEN_ENG_OIL_SUMP_T: -58.42
+    VOLKSWAGEN_OIL_SUMP_T: -50
+  response: 7E8056215B708B7

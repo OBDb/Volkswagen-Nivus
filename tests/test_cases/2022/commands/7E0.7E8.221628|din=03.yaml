@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221628|din=03
+test_cases:
+- expected_values:
+    VOLKSWAGEN_INTERCOOLER_AIR_T_RAW: 0
+  response: '7E80462162800'

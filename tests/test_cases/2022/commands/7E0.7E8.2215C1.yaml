@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2215C1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_IAT_BEFORE_THROTTLE: 60.75
+  response: 7E8046215C191

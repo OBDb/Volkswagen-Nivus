@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2216EC
+test_cases:
+- expected_values:
+    VOLKSWAGEN_CHG_P_REGULATOR_LO: 3199.2
+  response: 7E8056216EC3E7C

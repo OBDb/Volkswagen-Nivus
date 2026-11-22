@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.22114F
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MIS_1_7E0: 5925
+    VOLKSWAGEN_PQ35_SOOT_MASS_CALC: 59.25
+  response: 7E80562114F1725

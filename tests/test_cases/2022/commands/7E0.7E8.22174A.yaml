@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.22174A
+test_cases:
+- expected_values:
+    VOLKSWAGEN_EXH_CAM_ADPT_BIAS: -2.46098
+  response: 7E80562174AFF90

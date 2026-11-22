@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2211DC
+test_cases:
+- expected_values:
+    VOLKSWAGEN_INT_MANIFOLD_P_RAW: 3.51562
+    VOLKSWAGEN_MAP_RAW: 906.17188
+  response: 7E8056211DC2D4F

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.221481|fc=1
+test_cases:
+- expected_values:
+    VOLKSWAGEN_MIS_CNT_6: 0
+  response: '7E806621481000000'

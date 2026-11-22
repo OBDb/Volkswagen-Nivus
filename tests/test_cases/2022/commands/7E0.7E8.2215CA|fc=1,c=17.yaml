@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2215CA|fc=1,c=17
+test_cases:
+- expected_values:
+    VOLKSWAGEN_GENERATOR_LOAD_NORMALIZED_VALUE: 29.01
+  response: 7E8056215CA0B55
