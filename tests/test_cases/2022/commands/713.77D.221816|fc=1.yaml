@@ -1,6 +1,12 @@
 command_id: 713.77D.221816|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_AIR_GAB_VACUUM_SNS: 59
+    VOLKSWAGEN_BRAKE_P_SNS: 42.07
+  response: |-
+    77D100C62181600106F
+    77D21001DFFFF003BAA
+- expected_values:
     VOLKSWAGEN_AIR_GAB_VACUUM_SNS: 57
     VOLKSWAGEN_BRAKE_P_SNS: 49.64
   response: |-

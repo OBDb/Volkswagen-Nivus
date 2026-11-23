@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.22171B
 test_cases:
 - expected_values:
+    VOLKSWAGEN_BASIC_CORR_FACTOR_3: 0.99452
+  response: 7E80562171B1FD4
+- expected_values:
+    VOLKSWAGEN_BASIC_CORR_FACTOR_3: 0.99464
+  response: 7E80562171B1FD5
+- expected_values:
     VOLKSWAGEN_BASIC_CORR_FACTOR_3: 0.99904
   response: 7E80562171B1FF9

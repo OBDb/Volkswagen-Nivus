@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_BOOST_REGULATION_CMD: 72.84666
   response: 7E8056212190C24
+- expected_values:
+    VOLKSWAGEN_BOOST_REGULATION_CMD: 96.28509
+  response: 7E805621219100C
+- expected_values:
+    VOLKSWAGEN_BOOST_REGULATION_CMD: 100
+  response: 7E805621219179F

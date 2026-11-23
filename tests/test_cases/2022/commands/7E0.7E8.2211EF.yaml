@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2211EF
 test_cases:
 - expected_values:
+    VOLKSWAGEN_P_BEFORE_THROTTLE: 915.46841
+  response: 7E8056211EF5B8C
+- expected_values:
+    VOLKSWAGEN_P_BEFORE_THROTTLE: 918.67154
+  response: 7E8056211EF5BDE
+- expected_values:
     VOLKSWAGEN_P_BEFORE_THROTTLE: 965.39027
   response: 7E8056211EF608A

@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MEAN_INJ_QUANTITY: 161.67
   response: 7E8056211393F27
+- expected_values:
+    VOLKSWAGEN_MEAN_INJ_QUANTITY: 163.07
+  response: 7E8056211393FB3
+- expected_values:
+    VOLKSWAGEN_MEAN_INJ_QUANTITY: 176.76
+  response: 7E805621139450C

@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_COOLANT_FAN_1_ACTIVATION: 10.15
   response: 7E80562113003F7
+- expected_values:
+    VOLKSWAGEN_COOLANT_FAN_1_ACTIVATION: 42.57
+  response: 7E80562113010A1

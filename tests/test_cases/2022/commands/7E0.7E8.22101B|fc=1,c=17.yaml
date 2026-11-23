@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.22101B|fc=1,c=17
 test_cases:
 - expected_values:
+    VOLKSWAGEN_GENERATOR_TORQUE_REQUEST: 0
+  response: 7E80562101B0000
+- expected_values:
+    VOLKSWAGEN_GENERATOR_TORQUE_REQUEST: 1.1
+  response: 7E80562101B000B
+- expected_values:
     VOLKSWAGEN_GENERATOR_TORQUE_REQUEST: 1.5
   response: 7E80562101B000F

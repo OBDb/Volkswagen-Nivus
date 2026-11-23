@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2210EB
 test_cases:
 - expected_values:
+    VOLKSWAGEN_CRANK_ROT_ANG: 55.2
+  response: 7E8056210EB0228
+- expected_values:
+    VOLKSWAGEN_CRANK_ROT_ANG: 65.8
+  response: 7E8056210EB0292
+- expected_values:
     VOLKSWAGEN_CRANK_ROT_ANG: 66.3
   response: 7E8056210EB0297

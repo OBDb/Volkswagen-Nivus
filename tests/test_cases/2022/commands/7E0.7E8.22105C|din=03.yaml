@@ -1,6 +1,10 @@
 command_id: 7E0.7E8.22105C|din=03
 test_cases:
 - expected_values:
+    VOLKSWAGEN_BRAKE_P_V2: 6553
+    VOLKSWAGEN_PQ35_GEN_LOAD: 100
+  response: 7E80562105CFFFA
+- expected_values:
     VOLKSWAGEN_BRAKE_P_V2: 6553.3
     VOLKSWAGEN_PQ35_GEN_LOAD: 100
   response: 7E80562105CFFFD

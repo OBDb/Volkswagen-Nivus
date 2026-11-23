@@ -1,6 +1,14 @@
 command_id: 7E0.7E8.221065
 test_cases:
 - expected_values:
+    VOLKSWAGEN_CYL_HEAD_T: 138.32
+    VOLKSWAGEN_CYL_HEAD_T_ACT: 59.3
+  response: 7E8056210650CFC
+- expected_values:
     VOLKSWAGEN_CYL_HEAD_T: 185.48
     VOLKSWAGEN_CYL_HEAD_T_ACT: 85.5
   response: 7E8056210650E02
+- expected_values:
+    VOLKSWAGEN_CYL_HEAD_T: 188.18
+    VOLKSWAGEN_CYL_HEAD_T_ACT: 87
+  response: 7E8056210650E11

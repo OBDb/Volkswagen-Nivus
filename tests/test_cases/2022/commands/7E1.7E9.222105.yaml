@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_TQ_TRANSMITTING: 0
   response: '7E9056221050000'
+- expected_values:
+    VOLKSWAGEN_TQ_TRANSMITTING: 5.4
+  response: '7E9056221050036'
+- expected_values:
+    VOLKSWAGEN_TQ_TRANSMITTING: 15.5
+  response: 7E905622105009B

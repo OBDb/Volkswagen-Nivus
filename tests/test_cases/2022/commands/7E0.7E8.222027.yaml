@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_FUEL_HIGH_P_ACT: 787.7
   response: 7E8056220271EC5
+- expected_values:
+    VOLKSWAGEN_FUEL_HIGH_P_ACT: 957.8
+  response: 7E805622027256A
+- expected_values:
+    VOLKSWAGEN_FUEL_HIGH_P_ACT: 959.8
+  response: 7E805622027257E

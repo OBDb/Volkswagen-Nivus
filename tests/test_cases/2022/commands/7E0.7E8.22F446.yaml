@@ -4,3 +4,11 @@ test_cases:
     VOLKSWAGEN_AAT_7E0_7E0: 22
     VOLKSWAGEN_AAT_V4: 22
   response: 7E80462F4463E
+- expected_values:
+    VOLKSWAGEN_AAT_7E0_7E0: 24
+    VOLKSWAGEN_AAT_V4: 24
+  response: 7E80462F44640
+- expected_values:
+    VOLKSWAGEN_AAT_7E0_7E0: 27
+    VOLKSWAGEN_AAT_V4: 27
+  response: 7E80462F44643

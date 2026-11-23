@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2211D2
 test_cases:
 - expected_values:
+    VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.109
+  response: 7E8056211D2FF26
+- expected_values:
+    VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.106
+  response: 7E8056211D2FF2C
+- expected_values:
     VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.1005
   response: 7E8056211D2FF37
