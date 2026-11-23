@@ -10,5 +10,11 @@ test_cases:
     VOLKSWAGEN_ECT_LINEAR: 87.07382
   response: 7E805621513B419
 - expected_values:
+    VOLKSWAGEN_ECT_LINEAR: 87.65976
+  response: 7E805621513B4E1
+- expected_values:
     VOLKSWAGEN_ECT_LINEAR: 88.24277
   response: 7E805621513B5A8
+- expected_values:
+    VOLKSWAGEN_ECT_LINEAR: 88.43906
+  response: 7E805621513B5EB

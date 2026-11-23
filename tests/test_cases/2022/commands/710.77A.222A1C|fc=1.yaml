@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_GEN_CURRENT: 44.1
   response: 77A05622A1C015F
+- expected_values:
+    VOLKSWAGEN_GEN_CURRENT: 55.1
+  response: 77A05622A1C01CD
+- expected_values:
+    VOLKSWAGEN_GEN_CURRENT: 62
+  response: 77A05622A1C0212

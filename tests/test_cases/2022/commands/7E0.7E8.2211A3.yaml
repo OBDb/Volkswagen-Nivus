@@ -7,6 +7,9 @@ test_cases:
     VOLKSWAGEN_EA888B_BOOST_P_CMD: 65.88235
   response: 7E8046211A3A8
 - expected_values:
+    VOLKSWAGEN_EA888B_BOOST_P_CMD: 85.4902
+  response: 7E8046211A3DA
+- expected_values:
     VOLKSWAGEN_EA888B_BOOST_P_CMD: 88.23529
   response: 7E8046211A3E1
 - expected_values:

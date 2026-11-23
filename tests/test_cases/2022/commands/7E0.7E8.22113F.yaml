@@ -9,6 +9,10 @@ test_cases:
     VOLKSWAGEN_FUEL_RATE: 0.87
   response: 7E80562113F0057
 - expected_values:
+    VOLKSWAGEN_FUEL_CONS: 1.5
+    VOLKSWAGEN_FUEL_RATE: 1.5
+  response: 7E80562113F0096
+- expected_values:
     VOLKSWAGEN_FUEL_CONS: 2.64
     VOLKSWAGEN_FUEL_RATE: 2.64
   response: 7E80562113F0108
@@ -16,3 +20,7 @@ test_cases:
     VOLKSWAGEN_FUEL_CONS: 2.7
     VOLKSWAGEN_FUEL_RATE: 2.7
   response: 7E80562113F010E
+- expected_values:
+    VOLKSWAGEN_FUEL_CONS: 3.38
+    VOLKSWAGEN_FUEL_RATE: 3.38
+  response: 7E80562113F0152

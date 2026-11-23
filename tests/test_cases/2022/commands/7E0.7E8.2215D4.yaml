@@ -1,8 +1,14 @@
 command_id: 7E0.7E8.2215D4
 test_cases:
 - expected_values:
+    VOLKSWAGEN_LAMBDA_OUTPUT: 0.93192
+  response: 7E8056215D47749
+- expected_values:
     VOLKSWAGEN_LAMBDA_OUTPUT: 0.97421
   response: 7E8056215D47CB3
+- expected_values:
+    VOLKSWAGEN_LAMBDA_OUTPUT: 1.00488
+  response: 7E8056215D480A0
 - expected_values:
     VOLKSWAGEN_LAMBDA_OUTPUT: 1.0087
   response: 7E8056215D4811D

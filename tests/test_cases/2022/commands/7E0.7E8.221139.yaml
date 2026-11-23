@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221139
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MEAN_INJ_QUANTITY: 159.51
+  response: 7E8056211393E4F
+- expected_values:
     VOLKSWAGEN_MEAN_INJ_QUANTITY: 161.67
   response: 7E8056211393F27
 - expected_values:
@@ -9,6 +12,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MEAN_INJ_QUANTITY: 163.83
   response: 7E8056211393FFF
+- expected_values:
+    VOLKSWAGEN_MEAN_INJ_QUANTITY: 163.84
+  response: '7E8056211394000'
 - expected_values:
     VOLKSWAGEN_MEAN_INJ_QUANTITY: 176.76
   response: 7E805621139450C

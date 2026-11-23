@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2211F0
 test_cases:
 - expected_values:
+    VOLKSWAGEN_BOOST_P_ACT: 91.4375
+  response: 7E8056211F02DB8
+- expected_values:
     VOLKSWAGEN_BOOST_P_ACT: 91.75
   response: 7E8056211F02DE0
 - expected_values:
@@ -9,6 +12,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_BOOST_P_ACT: 105.94531
   response: 7E8056211F034F9
+- expected_values:
+    VOLKSWAGEN_BOOST_P_ACT: 116.875
+  response: 7E8056211F03A70
 - expected_values:
     VOLKSWAGEN_BOOST_P_ACT: 117.96875
   response: 7E8056211F03AFC

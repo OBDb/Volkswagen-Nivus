@@ -4,8 +4,14 @@ test_cases:
     VOLKSWAGEN_CAM_POS_DEV_BASE_POS: 0
   response: '7E8056213850000'
 - expected_values:
+    VOLKSWAGEN_CAM_POS_DEV_BASE_POS: 0.02197
+  response: '7E8056213850001'
+- expected_values:
     VOLKSWAGEN_CAM_POS_DEV_BASE_POS: 0.06592
   response: '7E8056213850003'
+- expected_values:
+    VOLKSWAGEN_CAM_POS_DEV_BASE_POS: 0.08789
+  response: '7E8056213850004'
 - expected_values:
     VOLKSWAGEN_CAM_POS_DEV_BASE_POS: 0.13184
   response: '7E8056213850006'

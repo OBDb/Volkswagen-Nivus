@@ -4,5 +4,8 @@ test_cases:
     VOLKSWAGEN_VSS_HR: 0
   response: '7E9056221060000'
 - expected_values:
+    VOLKSWAGEN_VSS_HR: 1.1
+  response: 7E905622106006E
+- expected_values:
     VOLKSWAGEN_VSS_HR: 34.6
   response: 7E9056221060D84
