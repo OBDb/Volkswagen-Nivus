@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_REQ_TQ_AMOUNT: 13
   response: 7E8056210BE0082
+- expected_values:
+    VOLKSWAGEN_REQ_TQ_AMOUNT: 15.8
+  response: 7E8056210BE009E

@@ -7,5 +7,8 @@ test_cases:
     VOLKSWAGEN_CAM_ADJ_INT_BANK_1_ACT: 23.28
   response: 7E80562136E0B5E
 - expected_values:
+    VOLKSWAGEN_CAM_ADJ_INT_BANK_1_ACT: 23.368
+  response: 7E80562136E0B69
+- expected_values:
     VOLKSWAGEN_CAM_ADJ_INT_BANK_1_ACT: -1.384
   response: 7E80562136EFF53

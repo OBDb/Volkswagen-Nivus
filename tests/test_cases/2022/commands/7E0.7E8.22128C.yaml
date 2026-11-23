@@ -1,6 +1,10 @@
 command_id: 7E0.7E8.22128C
 test_cases:
 - expected_values:
+    VOLKSWAGEN_AVG_INJ_TIME: 0.2544
+    VOLKSWAGEN_MEDIAN_INJ_TIM: 0.636
+  response: 7E80762128C0000027C
+- expected_values:
     VOLKSWAGEN_AVG_INJ_TIME: 0.3996
     VOLKSWAGEN_MEDIAN_INJ_TIM: 0.999
   response: 7E80762128C000003E7

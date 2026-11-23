@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221282
 test_cases:
 - expected_values:
+    VOLKSWAGEN_EXHAUST_GAS_T_BEFORE_CATALYST: 308.41
+  response: 7E805621282621D
+- expected_values:
     VOLKSWAGEN_EXHAUST_GAS_T_BEFORE_CATALYST: 363.89
   response: 7E8056212826CF3
 - expected_values:

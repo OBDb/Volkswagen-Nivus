@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_P_BEFORE_THROTTLE: 915.46841
   response: 7E8056211EF5B8C
 - expected_values:
+    VOLKSWAGEN_P_BEFORE_THROTTLE: 917.57779
+  response: 7E8056211EF5BC2
+- expected_values:
     VOLKSWAGEN_P_BEFORE_THROTTLE: 918.67154
   response: 7E8056211EF5BDE
 - expected_values:

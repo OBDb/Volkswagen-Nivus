@@ -1,6 +1,10 @@
 command_id: 7E0.7E8.2224FC|fc=1,c=17
 test_cases:
 - expected_values:
+    VOLKSWAGEN_FLI_INPUT_VAR_2: 20.9
+    VOLKSWAGEN_FUEL_TANK_FILL_LEVEL: 20.9
+  response: 7E8056224FC00D1
+- expected_values:
     VOLKSWAGEN_FLI_INPUT_VAR_2: 21.3
     VOLKSWAGEN_FUEL_TANK_FILL_LEVEL: 21.3
   response: 7E8056224FC00D5

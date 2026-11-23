@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_OXYGEN_SNS_1_BANK_1_CERAMIC_T: 719.52414
   response: 7E805621290A573
 - expected_values:
+    VOLKSWAGEN_OXYGEN_SNS_1_BANK_1_CERAMIC_T: 719.59445
+  response: 7E805621290A576
+- expected_values:
     VOLKSWAGEN_OXYGEN_SNS_1_BANK_1_CERAMIC_T: 719.71163
   response: 7E805621290A57B
 - expected_values:

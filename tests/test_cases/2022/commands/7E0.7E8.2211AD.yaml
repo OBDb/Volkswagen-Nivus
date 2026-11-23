@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2211AD
 test_cases:
 - expected_values:
+    VOLKSWAGEN_MAF_CMD: 6.7
+  response: 7E8056211AD0043
+- expected_values:
     VOLKSWAGEN_MAF_CMD: 7.6
   response: 7E8056211AD004C
 - expected_values:

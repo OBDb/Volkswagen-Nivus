@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_CLR_DIST: 8462
   response: 7E80562F431210E
+- expected_values:
+    VOLKSWAGEN_CLR_DIST: 8466
+  response: 7E80562F4312112

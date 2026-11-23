@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_FUEL_MIX_CORR: -168.63078
   response: 7E80562171085B8
 - expected_values:
+    VOLKSWAGEN_FUEL_MIX_CORR: -168.59416
+  response: 7E80562171085C4
+- expected_values:
     VOLKSWAGEN_FUEL_MIX_CORR: -168.56364
   response: 7E80562171085CE
 - expected_values:

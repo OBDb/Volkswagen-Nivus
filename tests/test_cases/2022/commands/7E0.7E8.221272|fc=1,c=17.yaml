@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_REAR_CAT_CONV_T_MAIN_CAT_CONV_MODEL_VALUE: -3339.6
   response: '7E8056212728837'
+- expected_values:
+    VOLKSWAGEN_REAR_CAT_CONV_T_MAIN_CAT_CONV_MODEL_VALUE: -2927
+  response: '7E8056212729855'

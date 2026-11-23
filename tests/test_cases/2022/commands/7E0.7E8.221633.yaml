@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_LONGITUDINAL_ACCEL: 0.022
   response: '7E8056216330016'
 - expected_values:
+    VOLKSWAGEN_LONGITUDINAL_ACCEL: 0.043
+  response: 7E805621633002B
+- expected_values:
     VOLKSWAGEN_LONGITUDINAL_ACCEL: 0.045
   response: 7E805621633002D
 - expected_values:
