@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.1005
   response: 7E8056211D2FF37
+- expected_values:
+    VOLKSWAGEN_HIGH_P_CTRL_ADPT: -0.0805
+  response: 7E8056211D2FF5F

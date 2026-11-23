@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_BAT_INTERNAL_RES_RAW: 5.8
   response: 77A04622A251D
 - expected_values:
+    VOLKSWAGEN_BAT_INTERNAL_RES_RAW: 7
+  response: 77A04622A2523
+- expected_values:
     VOLKSWAGEN_BAT_INTERNAL_RES_RAW: 7.2
   response: 77A04622A2524
 - expected_values:

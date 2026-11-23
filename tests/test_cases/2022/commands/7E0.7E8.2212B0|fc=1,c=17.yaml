@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_ACCELERATION_29BIT: 0
   response: 7E8056212B00000
 - expected_values:
+    VOLKSWAGEN_ACCELERATION_29BIT: 0.663
+  response: 7E8056212B00297
+- expected_values:
     VOLKSWAGEN_ACCELERATION_29BIT: -0.329
   response: 7E8056212B0FEB7
 - expected_values:

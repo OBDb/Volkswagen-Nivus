@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.221216
 test_cases:
 - expected_values:
+    VOLKSWAGEN_REL_LOAD: 12.16552
+  response: '7E8056212160207'
+- expected_values:
     VOLKSWAGEN_REL_LOAD: 16.90046
   response: 7E80562121602D1
 - expected_values:

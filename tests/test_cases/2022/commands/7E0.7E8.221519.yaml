@@ -7,5 +7,8 @@ test_cases:
     VOLKSWAGEN_FUEL_CONS_ACT_DRIVE: 0.11
   response: 7E805621519000B
 - expected_values:
+    VOLKSWAGEN_FUEL_CONS_ACT_DRIVE: 0.13
+  response: 7E805621519000D
+- expected_values:
     VOLKSWAGEN_FUEL_CONS_ACT_DRIVE: 0.34
   response: '7E8056215190022'

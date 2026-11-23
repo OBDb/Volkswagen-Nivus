@@ -7,5 +7,8 @@ test_cases:
     VOLKSWAGEN_INJ_2_RAIL_P_1: 0.00025
   response: 7E8056210D40005
 - expected_values:
+    VOLKSWAGEN_INJ_2_RAIL_P_1: 0.0003
+  response: 7E8056210D40006
+- expected_values:
     VOLKSWAGEN_INJ_2_RAIL_P_1: 0.0066
   response: 7E8056210D40084

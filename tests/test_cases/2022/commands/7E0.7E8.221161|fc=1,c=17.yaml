@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.221161|fc=1,c=17
 test_cases:
 - expected_values:
+    VOLKSWAGEN_ENGINE_RPM_AT_IDLE_REQUIRED: 880
+  response: 7E80562116106E0
+- expected_values:
     VOLKSWAGEN_ENGINE_RPM_AT_IDLE_REQUIRED: 980
   response: 7E80562116107A8
