@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_RAT_EVAPORATED_FUEL_MAX: 0
   response: '7E80462171200'
+- expected_values:
+    VOLKSWAGEN_RAT_EVAPORATED_FUEL_MAX: 0.01562
+  response: '7E80462171202'

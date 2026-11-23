@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_INT_CAM_ADPT_BIAS: -6.61387
   response: 7E80562174BFED3
+- expected_values:
+    VOLKSWAGEN_INT_CAM_ADPT_BIAS: -5.31747
+  response: 7E80562174BFF0E
+- expected_values:
+    VOLKSWAGEN_INT_CAM_ADPT_BIAS: -4.21882
+  response: 7E80562174BFF40

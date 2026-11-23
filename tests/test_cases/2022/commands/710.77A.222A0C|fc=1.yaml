@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_SSB_SOC: 61
   response: 77A04622A0C3D
+- expected_values:
+    VOLKSWAGEN_SSB_SOC: 63
+  response: 77A04622A0C3F
+- expected_values:
+    VOLKSWAGEN_SSB_SOC: 66
+  response: 77A04622A0C42

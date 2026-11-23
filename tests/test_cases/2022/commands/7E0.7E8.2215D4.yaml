@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_LAMBDA_OUTPUT: 0.97421
   response: 7E8056215D47CB3
+- expected_values:
+    VOLKSWAGEN_LAMBDA_OUTPUT: 1.0213
+  response: 7E8056215D482BA
+- expected_values:
+    VOLKSWAGEN_LAMBDA_OUTPUT: 1.02918
+  response: 7E8056215D483BC

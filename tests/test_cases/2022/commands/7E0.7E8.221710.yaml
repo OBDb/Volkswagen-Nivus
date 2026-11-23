@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.221710
 test_cases:
 - expected_values:
+    VOLKSWAGEN_FUEL_MIX_CORR: -168.63078
+  response: 7E80562171085B8
+- expected_values:
     VOLKSWAGEN_FUEL_MIX_CORR: -168.56364
   response: 7E80562171085CE
+- expected_values:
+    VOLKSWAGEN_FUEL_MIX_CORR: -168.53923
+  response: 7E80562171085D6

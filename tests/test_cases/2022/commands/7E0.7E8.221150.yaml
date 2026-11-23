@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MISFIRES_C3_ECM: 4172
   response: 7E805621150104C
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C3_ECM: 4173
+  response: 7E805621150104D
+- expected_values:
+    VOLKSWAGEN_MISFIRES_C3_ECM: 4174
+  response: 7E805621150104E

@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.221290|fc=1,c=17
 test_cases:
 - expected_values:
+    VOLKSWAGEN_OXYGEN_SNS_1_BANK_1_CERAMIC_T: 719.52414
+  response: 7E805621290A573
+- expected_values:
+    VOLKSWAGEN_OXYGEN_SNS_1_BANK_1_CERAMIC_T: 719.71163
+  response: 7E805621290A57B
+- expected_values:
     VOLKSWAGEN_OXYGEN_SNS_1_BANK_1_CERAMIC_T: 719.82882
   response: 7E805621290A580

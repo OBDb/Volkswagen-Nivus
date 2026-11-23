@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.2216C5
 test_cases:
 - expected_values:
+    VOLKSWAGEN_THROTTLE_REGULATOR: 28.64844
+  response: 7E8056216C50E53
+- expected_values:
+    VOLKSWAGEN_THROTTLE_REGULATOR: 31.10156
+  response: 7E8056216C50F8D
+- expected_values:
     VOLKSWAGEN_THROTTLE_REGULATOR: 100
   response: 7E8056216C543D7

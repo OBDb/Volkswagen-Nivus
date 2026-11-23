@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_AC_COMP_T: 6.2
   response: 7E805621002003E
+- expected_values:
+    VOLKSWAGEN_AC_COMP_T: 7.7
+  response: 7E805621002004D
+- expected_values:
+    VOLKSWAGEN_AC_COMP_T: 12.4
+  response: 7E805621002007C

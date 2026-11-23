@@ -4,3 +4,7 @@ test_cases:
     VOLKSWAGEN_AAT_746: 24
     VOLKSWAGEN_AAT_FROMCABIN: -54
   response: 7B00462260994
+- expected_values:
+    VOLKSWAGEN_AAT_746: 28
+    VOLKSWAGEN_AAT_FROMCABIN: -50
+  response: 7B0046226099C

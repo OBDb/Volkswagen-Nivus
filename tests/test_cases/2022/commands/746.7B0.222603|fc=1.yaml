@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_AC_COMPRESSOR_SPEED: 1800
   response: 7B00462260312
+- expected_values:
+    VOLKSWAGEN_AC_COMPRESSOR_SPEED: 2600
+  response: 7B0046226031A
+- expected_values:
+    VOLKSWAGEN_AC_COMPRESSOR_SPEED: 4000
+  response: 7B00462260328

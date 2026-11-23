@@ -1,5 +1,11 @@
 command_id: 746.7B0.222604|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_AC_COMPRESSOR_LOAD: 9.1
+  response: 7B0046226045B
+- expected_values:
     VOLKSWAGEN_AC_COMPRESSOR_LOAD: 9.8
   response: 7B00462260462
+- expected_values:
+    VOLKSWAGEN_AC_COMPRESSOR_LOAD: 15.9
+  response: 7B0046226049F

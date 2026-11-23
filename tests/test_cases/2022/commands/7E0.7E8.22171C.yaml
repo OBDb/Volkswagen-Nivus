@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_BASIC_CORR_FACTOR_4: 0.99
   response: 7E80562171C1FAF
+- expected_values:
+    VOLKSWAGEN_BASIC_CORR_FACTOR_4: 0.99183
+  response: 7E80562171C1FBE
+- expected_values:
+    VOLKSWAGEN_BASIC_CORR_FACTOR_4: 0.99208
+  response: 7E80562171C1FC0

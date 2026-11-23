@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_RATED_DRIVE_TQ: 171
   response: 7E8076214A1000006AE
+- expected_values:
+    VOLKSWAGEN_RATED_DRIVE_TQ: 465
+  response: 7E8076214A10000122A
+- expected_values:
+    VOLKSWAGEN_RATED_DRIVE_TQ: -88
+  response: 7E8076214A1FFFFFC90

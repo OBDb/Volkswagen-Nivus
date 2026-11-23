@@ -1,5 +1,11 @@
 command_id: 710.77A.222A15|fc=1
 test_cases:
 - expected_values:
+    VOLKSWAGEN_ENERGY_BALANCE_LAST: 12
+  response: 77A05622A1504B0
+- expected_values:
+    VOLKSWAGEN_ENERGY_BALANCE_LAST: 12.01
+  response: 77A05622A1504B1
+- expected_values:
     VOLKSWAGEN_ENERGY_BALANCE_LAST: 12.07
   response: 77A05622A1504B7
