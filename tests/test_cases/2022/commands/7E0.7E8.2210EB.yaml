@@ -4,6 +4,12 @@ test_cases:
     VOLKSWAGEN_CRANK_ROT_ANG: 55.2
   response: 7E8056210EB0228
 - expected_values:
+    VOLKSWAGEN_CRANK_ROT_ANG: 59
+  response: 7E8056210EB024E
+- expected_values:
+    VOLKSWAGEN_CRANK_ROT_ANG: 64.9
+  response: 7E8056210EB0289
+- expected_values:
     VOLKSWAGEN_CRANK_ROT_ANG: 65.8
   response: 7E8056210EB0292
 - expected_values:

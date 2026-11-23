@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MANUAL_ENG_STARTS: 9156
   response: 7E80562299823C4
+- expected_values:
+    VOLKSWAGEN_MANUAL_ENG_STARTS: 9157
+  response: 7E80562299823C5
+- expected_values:
+    VOLKSWAGEN_MANUAL_ENG_STARTS: 9158
+  response: 7E80562299823C6

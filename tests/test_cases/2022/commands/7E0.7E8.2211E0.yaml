@@ -7,8 +7,14 @@ test_cases:
     VOLKSWAGEN_CMD_CRANK_TQ: 38.3
   response: 7E8056211E0017F
 - expected_values:
+    VOLKSWAGEN_CMD_CRANK_TQ: 51.5
+  response: 7E8056211E00203
+- expected_values:
     VOLKSWAGEN_CMD_CRANK_TQ: 74.2
   response: 7E8056211E002E6
 - expected_values:
     VOLKSWAGEN_CMD_CRANK_TQ: 95.1
   response: 7E8056211E003B7
+- expected_values:
+    VOLKSWAGEN_CMD_CRANK_TQ: -5.8
+  response: 7E8056211E0FFC6

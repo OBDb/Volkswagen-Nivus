@@ -4,6 +4,11 @@ test_cases:
     VOLKSWAGEN_HYDR_BRAKEBOOST: 0
   response: |-
     77D1008621810011069
+    77D2101F8AAAAAAAAAA
+- expected_values:
+    VOLKSWAGEN_HYDR_BRAKEBOOST: 0
+  response: |-
+    77D1008621810011069
     77D210250AAAAAAAAAA
 - expected_values:
     VOLKSWAGEN_HYDR_BRAKEBOOST: 0
@@ -15,6 +20,11 @@ test_cases:
   response: |-
     77D100862181001141D
     77D21023EAAAAAAAAAA
+- expected_values:
+    VOLKSWAGEN_HYDR_BRAKEBOOST: 0
+  response: |-
+    77D100862181001159A
+    77D210252AAAAAAAAAA
 - expected_values:
     VOLKSWAGEN_HYDR_BRAKEBOOST: 0
   response: |-

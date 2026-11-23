@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2216EE
 test_cases:
 - expected_values:
+    VOLKSWAGEN_BOOST_P_ACTUATOR_CMD: 21.21545
+  response: 7E8056216EE06CA
+- expected_values:
     VOLKSWAGEN_BOOST_P_ACTUATOR_CMD: 21.28869
   response: 7E8056216EE06D0
 - expected_values:

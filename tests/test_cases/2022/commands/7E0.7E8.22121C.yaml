@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_AIR_FILLING: 20.602
   response: 7E80562121C036F
+- expected_values:
+    VOLKSWAGEN_AIR_FILLING: 46.52443
+  response: 7E80562121C07C1
+- expected_values:
+    VOLKSWAGEN_AIR_FILLING: 95.13484
+  response: 7E80562121C0FDB

@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_AUTOMATIC_ENG_STARTS: 16119
   response: 7E8056229993EF7
+- expected_values:
+    VOLKSWAGEN_AUTOMATIC_ENG_STARTS: 16120
+  response: 7E8056229993EF8

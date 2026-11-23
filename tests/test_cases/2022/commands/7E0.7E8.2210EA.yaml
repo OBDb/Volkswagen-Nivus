@@ -4,8 +4,14 @@ test_cases:
     VOLKSWAGEN_OPEN_CAM_SHFT_ANG: 33.7
   response: 7E8056210EA0151
 - expected_values:
+    VOLKSWAGEN_OPEN_CAM_SHFT_ANG: 37.1
+  response: 7E8056210EA0173
+- expected_values:
     VOLKSWAGEN_OPEN_CAM_SHFT_ANG: 44.9
   response: 7E8056210EA01C1
+- expected_values:
+    VOLKSWAGEN_OPEN_CAM_SHFT_ANG: 47.9
+  response: 7E8056210EA01DF
 - expected_values:
     VOLKSWAGEN_OPEN_CAM_SHFT_ANG: 53.2
   response: 7E8056210EA0214

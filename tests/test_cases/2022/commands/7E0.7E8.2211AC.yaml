@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_MAF_THROUGH_THROTTLE: 34.2
   response: 7E8056211AC0156
+- expected_values:
+    VOLKSWAGEN_MAF_THROUGH_THROTTLE: 45.3
+  response: 7E8056211AC01C5
+- expected_values:
+    VOLKSWAGEN_MAF_THROUGH_THROTTLE: 83.5
+  response: 7E8056211AC0343
