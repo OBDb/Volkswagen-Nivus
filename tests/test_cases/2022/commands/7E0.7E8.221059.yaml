@@ -10,5 +10,8 @@ test_cases:
     VOLKSWAGEN_ACCEL_PEDAL_TQ_LIM: 42.7
   response: 7E80562105901AB
 - expected_values:
+    VOLKSWAGEN_ACCEL_PEDAL_TQ_LIM: 48.8
+  response: 7E80562105901E8
+- expected_values:
     VOLKSWAGEN_ACCEL_PEDAL_TQ_LIM: 117.4
   response: '7E8056210590496'

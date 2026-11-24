@@ -10,6 +10,9 @@ test_cases:
     VOLKSWAGEN_ACCEL_PEDAL_SENS_2_V: 531
   response: 7E80562102B0A5F
 - expected_values:
+    VOLKSWAGEN_ACCEL_PEDAL_SENS_2_V: 592
+  response: 7E80562102B0B90
+- expected_values:
     VOLKSWAGEN_ACCEL_PEDAL_SENS_2_V: 710.6
   response: 7E80562102B0DE1
 - expected_values:

@@ -7,6 +7,9 @@ test_cases:
     VOLKSWAGEN_IAT_BEFORE_THROTTLE: 60.75
   response: 7E8046215C191
 - expected_values:
+    VOLKSWAGEN_IAT_BEFORE_THROTTLE: 65.25
+  response: 7E8046215C197
+- expected_values:
     VOLKSWAGEN_IAT_BEFORE_THROTTLE: 66
   response: 7E8046215C198
 - expected_values:

@@ -10,6 +10,9 @@ test_cases:
     VOLKSWAGEN_CAM_ADPT_INT_BANK_1: 0.84
   response: 7E805621125002A
 - expected_values:
+    VOLKSWAGEN_CAM_ADPT_INT_BANK_1: 0.86
+  response: 7E805621125002B
+- expected_values:
     VOLKSWAGEN_CAM_ADPT_INT_BANK_1: 0.88
   response: 7E805621125002C
 - expected_values:

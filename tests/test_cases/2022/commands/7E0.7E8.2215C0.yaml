@@ -12,3 +12,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_IAT_INT_MANIFOLD_RAW: 54
   response: 7E8046215C088
+- expected_values:
+    VOLKSWAGEN_IAT_INT_MANIFOLD_RAW: 55.5
+  response: 7E8046215C08A

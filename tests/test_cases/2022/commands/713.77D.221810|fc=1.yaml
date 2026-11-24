@@ -18,6 +18,11 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_HYDR_BRAKEBOOST: 0
   response: |-
+    77D10086218100113A6
+    77D2101D0AAAAAAAAAA
+- expected_values:
+    VOLKSWAGEN_HYDR_BRAKEBOOST: 0
+  response: |-
     77D100862181001141D
     77D21023EAAAAAAAAAA
 - expected_values:

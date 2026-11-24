@@ -4,6 +4,9 @@ test_cases:
     VOLKSWAGEN_TURBOCHARGER_INLET_P: 332.65625
   response: 7E8056211D410A2
 - expected_values:
+    VOLKSWAGEN_TURBOCHARGER_INLET_P: 366.95312
+  response: 7E8056211D41259
+- expected_values:
     VOLKSWAGEN_TURBOCHARGER_INLET_P: 388.20312
   response: 7E8056211D41369
 - expected_values:
