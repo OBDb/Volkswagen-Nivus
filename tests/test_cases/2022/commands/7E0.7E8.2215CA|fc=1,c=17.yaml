@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     VOLKSWAGEN_GENERATOR_LOAD_NORMALIZED_VALUE: 38.68
   response: 7E8056215CA0F1C
+- expected_values:
+    VOLKSWAGEN_GENERATOR_LOAD_NORMALIZED_VALUE: 41.9
+  response: 7E8056215CA105E

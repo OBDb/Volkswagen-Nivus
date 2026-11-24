@@ -7,6 +7,9 @@ test_cases:
     VOLKSWAGEN_VARIABLE_VLV_TIM_INT_1_ON: 72.28997
   response: 7E80562127D5C88
 - expected_values:
+    VOLKSWAGEN_VARIABLE_VLV_TIM_INT_1_ON: 76.10772
+  response: 7E80562127D616B
+- expected_values:
     VOLKSWAGEN_VARIABLE_VLV_TIM_INT_1_ON: 76.79131
   response: 7E80562127D624B
 - expected_values:
